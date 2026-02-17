@@ -19,4 +19,4 @@ terraform_state_bucket_name: "testhealth-k8sassignment-digit-buckets"
 
 ssh_key_name: "MacWorkSSHKey"
 
-public_ssh_key: "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIAdc3Cz2Uql16+C9CTWKFZ39pE7vN+5uraJ/oVNbdMU4 shashidhara@ekfrazo.in"
+public_ssh_key: "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIAdc3Cz2Uql16+C9CTWKFZ39pE7vN+5uraJ/oVNbdMU4"
