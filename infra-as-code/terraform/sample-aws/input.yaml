@@ -15,7 +15,7 @@ db_username: "testhealth"
 domain_name: "hcm-console.digit.org"
 
 # Replace with the name you want to give to your S3 bucket which is used to store the terraform states
-terraform_state_bucket_name: "testhealth-k8shashi-digit-buckets"
+terraform_state_bucket_name: "testhealth-k8shashi-buckets"
 
 ssh_key_name: "ssh_public_key_githubactions"
 
