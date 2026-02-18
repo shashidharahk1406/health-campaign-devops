@@ -14,6 +14,7 @@ db_username: "hksekfrazousers"
 # Replace with Domain name you want for your web applications
 domain_name: "hcm-console.digit.org"
 
+
 # Replace with the name you want to give to your S3 bucket which is used to store the terraform states
 terraform_state_bucket_name: "hks-ekfrazo-bucket"
 
