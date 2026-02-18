@@ -5,11 +5,11 @@ cluster_name: "hks-ekfrazo"
 
 # Name you want to give to your Database
 # DB name must contain only alphanumeric characters
-db_name: "hksekfrazodb"
+db_name: "hksekfrazodbs"
 
 # Replace with DB username you want
 # DB user name must contain only alphanumeric characters
-db_username: "hksekfrazouser"
+db_username: "hksekfrazousers"
 
 # Replace with Domain name you want for your web applications
 domain_name: "hcm-console.digit.org"
