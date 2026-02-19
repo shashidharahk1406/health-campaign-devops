@@ -19,6 +19,7 @@ domain_name: "hcm-console.digit.org"
 public_ssh_key: "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDdOzjnsNf1an/xZCcV3WeyD3p0nU6G/zBLelp/qL2Tvb8hkydfS/3wjjKzY0iQZL7d9G4OyjBZYy9lnkm9UpLdk6uPfQUY6RBGPqPvHUf1jzhOE1tuXKhR96Nwh+rl1lGvKHcA70tm9Ff0DQcaRDkIQ/1cmMsD1xGHMIr4M5aIxoEB+uXj8CuW3vAR+vieDDeP+//01TwcNCLRyo/9/a8IkhPxmPF+erd6uZXcfzHdAN6IwkA4DuK/pGH2oSB5dDLH2JjQtD4jNpWS+XRSGmpAQ9nH/yEFfdX2xjV2apTiZVWGZ5SvbvyTwUWBOQbme2LPjpNDZuyDQjHK7qjOV4PD"
 
 
+
 ssh_key_name: "ssh_public_key_githubactions"
 # Replace with the name you want to give to your S3 bucket which is used to store the terraform states
 terraform_state_bucket_name: "hks-ekfrazo-bucket"
